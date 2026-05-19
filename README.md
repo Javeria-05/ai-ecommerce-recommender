@@ -86,7 +86,7 @@ AI-Ecommerce-Recommendation-System/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Javeria-05/ai-ecommerce-recommender.git
 ```
 
 Move into the project directory:
